@@ -3,7 +3,7 @@ Ice Cube Prolog Expert System
 
 I did this project as an experiment to see if I could translate rap lyrics into the predicate calculus and implement a simple expert system that could help you check yourself before you wreck yourself. 
 
-Rapper Ice Cube [asks us](http://genius.com/Ice-cube-check-yo-self-lyrics/) to check ourselves before we wreck ourselves, but lists several potential causes of wrecking yourself: stepping to Ice Cube, stepping to Ice Cube and snitching on him out of fear you'd lose the fight, and associating with a disreputable romantic partner. Given that there is no single cause of being wrecked, how is one to know to advance that they are about to wreck themselves? 
+Rapper Ice Cube [asks us](http://genius.com/Ice-cube-check-yo-self-lyrics/) to check ourselves before we wreck ourselves, but lists several potential causes of wrecking yourself: stepping to Ice Cube, stepping to Ice Cube and snitching on him out of fear you'd lose the fight, and associating with a disreputable romantic partner. Given that there is no single cause of being wrecked, how is one to know in advance that they are about to wreck themselves? 
 
 I have modified an [simple rule-based expert system](https://www.cpp.edu/~jrfisher/www/prolog_tutorial/2_17.html) from an [AI textbook](http://www.amazon.com/Lisp-3rd-Edition-Patrick-Winston/dp/0201083191) so that you can avoid being wrecked. 
 
